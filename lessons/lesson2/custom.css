@@ -1,0 +1,15 @@
+.redText {
+  color: red;
+}
+
+body {
+  /* margin: 30px; */
+  background-color: #fdfdfd;
+}
+
+.my-navbar {
+  border: 1px dashed orange;
+}
+.my-navbar-brand {
+  border: 1px dashed #000066;
+}

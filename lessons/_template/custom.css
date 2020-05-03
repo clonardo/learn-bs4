@@ -1,0 +1,4 @@
+/* put a little space between content and edge of document */
+body {
+  margin: 30px;
+}
